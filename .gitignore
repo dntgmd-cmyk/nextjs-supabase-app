@@ -40,3 +40,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local task manager data
+/shrimp_data/
+
+# local Claude Code settings
+.claude/settings.local.json
